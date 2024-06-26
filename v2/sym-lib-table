@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Xbee")(type "KiCad")(uri "${KIPRJMOD}/libs/XbeeMicroRFPad/XbeeSymbol.kicad_sym")(options "")(descr ""))
+  (lib (name "MIMXRT1062DVJ6B")(type "KiCad")(uri "${KIPRJMOD}/libs/MIMXRT1062DVJ6B/MIMXRT1062DVJ6B.kicad_sym")(options "")(descr ""))
+  (lib (name "CustomLibrary")(type "KiCad")(uri "${KIPRJMOD}/libs/CustomLibrary.kicad_sym")(options "")(descr ""))
+  (lib (name "RPI2040")(type "Legacy")(uri "${KIPRJMOD}/libs/RPI2040/MCU_RaspberryPi_RP2040.lib")(options "")(descr ""))
+  (lib (name "TPS564257DRLR")(type "KiCad")(uri "${KIPRJMOD}/libs/TPS564257DRLR.kicad_sym")(options "")(descr ""))
+  (lib (name "USBC")(type "KiCad")(uri "${KIPRJMOD}/libs/USB4105-GF-A.kicad_sym")(options "")(descr ""))
+)

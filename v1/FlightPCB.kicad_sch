@@ -1,0 +1,323 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "5b2dc117-dab4-41cc-8dc1-4f45decf8437")
+	(paper "A4")
+	(title_block
+		(title "[Unnamed] FlightPCB ")
+		(date "2024-02-01")
+		(rev "0.1")
+		(company "[Unnamed]")
+	)
+	(lib_symbols)
+	(sheet
+		(at 19.05 91.44)
+		(size 57.15 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "51df0989-c97f-402b-8df5-cde71758b6fc")
+		(property "Sheetname" "GPS & Comms"
+			(at 19.05 90.7284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "gps_comms.kicad_sch"
+			(at 19.05 128.8546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FlightPCB"
+				(path "/5b2dc117-dab4-41cc-8dc1-4f45decf8437"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 86.36 91.44)
+		(size 57.15 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "643e7afa-48b3-4748-b981-1b2c6fe6c752")
+		(property "Sheetname" "Sensors"
+			(at 86.36 90.7284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensors.kicad_sch"
+			(at 86.36 128.8546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FlightPCB"
+				(path "/5b2dc117-dab4-41cc-8dc1-4f45decf8437"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.78 44.45)
+		(size 57.15 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "76baa9cd-79b2-4ef5-8d4c-b78d6b1f604d")
+		(property "Sheetname" "Power"
+			(at 17.78 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 17.78 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FlightPCB"
+				(path "/5b2dc117-dab4-41cc-8dc1-4f45decf8437"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 220.98 43.18)
+		(size 57.15 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9002884a-960e-4c9e-8ff6-67efd973c0fb")
+		(property "Sheetname" "Teensy Power & IO"
+			(at 220.98 42.4684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "teensy_top.kicad_sch"
+			(at 220.98 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FlightPCB"
+				(path "/5b2dc117-dab4-41cc-8dc1-4f45decf8437"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 157.48 91.44)
+		(size 57.15 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9484ede4-503b-450e-9d1b-dee6e17f0b8f")
+		(property "Sheetname" "State"
+			(at 157.48 90.7284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "state.kicad_sch"
+			(at 157.48 128.8546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FlightPCB"
+				(path "/5b2dc117-dab4-41cc-8dc1-4f45decf8437"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 219.71 92.71)
+		(size 57.15 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9c1fd00b-49f4-400a-9b83-bca2e1cf55d7")
+		(property "Sheetname" "Teensy Bottom"
+			(at 219.71 91.9984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "teensy_bottom.kicad_sch"
+			(at 219.71 128.8546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FlightPCB"
+				(path "/5b2dc117-dab4-41cc-8dc1-4f45decf8437"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 157.48 43.18)
+		(size 57.15 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c6e58d5d-ea04-4853-a390-141cdfbe2489")
+		(property "Sheetname" "Inputs & Outputs"
+			(at 157.48 42.4684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "io.kicad_sch"
+			(at 157.48 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FlightPCB"
+				(path "/5b2dc117-dab4-41cc-8dc1-4f45decf8437"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 86.36 43.18)
+		(size 57.15 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d6bae6d2-c087-4955-a046-fe348380d6ca")
+		(property "Sheetname" "RP2040"
+			(at 86.36 42.4684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rp2040.kicad_sch"
+			(at 86.36 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FlightPCB"
+				(path "/5b2dc117-dab4-41cc-8dc1-4f45decf8437"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
